@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm David and I'm a software engineer who is passionate about developing applications that are thoughtful and accessible.
+### - I enjoy being a part of the full lifecycle of an application - from the planning, to building architecture, to deploying the application itself.
+### - Skills include (but not limited to) - JavaScript, Java, React.JS, Redux.JS, Python, Spring MVC, Maven, SQL, HTML, & CSS
+### - [LinkedIn](https://www.linkedin.com/in/davidpchang/)
 
 <!--
 **dav1dchang/dav1dchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
